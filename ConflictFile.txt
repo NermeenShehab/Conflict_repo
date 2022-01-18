@@ -1,2 +1,3 @@
 The file is ready to make conflict
 my name is nermmen and i am trying to edit the file 
+new file
